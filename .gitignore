@@ -1,0 +1,5 @@
+# local test artefacts, not part of the deliverable
+_evidence/
+*.bin
+*.bin.xz
+*.patched
